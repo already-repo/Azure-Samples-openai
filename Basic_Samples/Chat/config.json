@@ -1,5 +1,7 @@
 {
-    "CHATGPT_MODEL":"<ChatGPT Model Name>",
-    "OPENAI_API_BASE":"https://<Your Azure Resource Name>.openai.azure.com",
-    "OPENAI_API_VERSION":"<OpenAI API Version>"
+    "COMPLETIONS_MODEL":"gpt-35-turbo-0301",
+    "CHATGPT_MODEL":"gpt-35-turbo-0301",
+    "OPENAI_API_BASE":"https://my-gpt-model.openai.azure.com/",
+    "OPENAI_API_VERSION":"2023-03-15-preview"
+
 }

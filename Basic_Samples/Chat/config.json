@@ -2,6 +2,7 @@
     "COMPLETIONS_MODEL":"gpt-35-turbo-0301",
     "CHATGPT_MODEL":"gpt-35-turbo-0301",
     "OPENAI_API_BASE":"https://my-gpt-model.openai.azure.com/",
-    "OPENAI_API_VERSION":"2023-03-15-preview"
+    "OPENAI_API_VERSION":"2023-03-15-preview",
+    "OPENAI_API_KEY": "034f81a8012f42a2a5337dd20f5524ed"
 
 }

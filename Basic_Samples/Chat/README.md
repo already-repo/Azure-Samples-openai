@@ -38,7 +38,7 @@ One can get the OPENAI_API_KEY value from the Azure Portal. Go to https://portal
 - For the sample scenario, one can use "gpt-35-turbo" as "CHATGPT_MODEL" in _config_ file. The "gpt-35-turbo" is the deployment name you chose when you want to deploy the ChatGPT or GPT-4 model.
    ```
    {
-      "CHATGPT_MODEL":"gpt-35-turbo",
+  python
       "OPENAI_API_BASE":"https://<Your Azure Resource Name>.openai.azure.com",
       "OPENAI_API_VERSION":"2023-03-15-preview"
    }
